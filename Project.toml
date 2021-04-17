@@ -1,0 +1,13 @@
+name = "JuliaSandbox"
+uuid = "4259b211-9006-4a13-b83c-c490ec742205"
+authors = ["Erwan Lecarpentier"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
