@@ -1,5 +1,5 @@
 module JuliaSandbox
 
-# Write your package code here.
+include("internal_module.jl")
 
 end
